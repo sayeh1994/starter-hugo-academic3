@@ -33,17 +33,17 @@ feature:
     icon_pack: custom
     name: Deep Learning
   - description: 60%
-    icon: brain-circuit
+    icon: fa-brain-circuit
     icon_pack: fas
-    name: Optimization computation
+    name: Optimization
   - description: 60%
     icon: latex
     icon_pack: custom
     name: Latex
-  - description: 80%
+<!--   - description: 80%
     icon: photoshop
     icon_pack: custom
-    name: Adobe Photoshop
+    name: Adobe Photoshop -->
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
