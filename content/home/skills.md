@@ -40,10 +40,6 @@ feature:
     icon: latex
     icon_pack: custom
     name: Latex
-<!--   - description: 80%
-    icon: photoshop
-    icon_pack: custom
-    name: Adobe Photoshop -->
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
