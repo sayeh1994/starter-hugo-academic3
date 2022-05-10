@@ -49,3 +49,4 @@ We're an open source movement that depends on your support to stay online and th
 - [Version 5.0 (February 2021)](https://wowchemy.com/blog/version-5.0-february-2021/)
 - [Version 5.0 Beta 3 (February 2021)](https://wowchemy.com/blog/version-5.0-beta-3-february-2021/)
 <!--END_SECTION:news-->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c9f12049-7b6f-41fb-9f37-87edf30899e7/deploy-status)](https://app.netlify.com/sites/cozy-hummingbird-186046/deploys)
