@@ -22,28 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Intern
+    company: GIPSA-Lab
+    company_url: 'http://www.gipsa-lab.grenoble-inp.fr/'
+    company_logo: gipsa
+    location: France
+    date_start: '2022-02-07'
     date_end: ''
+	description: Improving the performance of a CNN model with generative data.
+    
+  - title: R&D Member
+    company: Farabina Smart LLC
+    company_url: 'http://www.farabina.com/'
+    company_logo: farabina_2
+    location: Iran
+    date_start: '2018-01-14'
+    date_end: '2020-06-15'
+	description: Building a device based on Thermal Camera.
+    
+  - title: Data Analyst
+    company: iRoad Electronic
+    company_url: ''
+    company_logo: org-x
+    location: Iran
+    date_start: '2017-03'
+    date_end: '2017-12'
     description: |2-
+		Traffic recorders in suburban areas
         Responsibilities include:
         
         * Analysing
-        * Modelling
-        * Deploying
+        * Monitoring
+        * Programing
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'

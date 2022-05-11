@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://coursera.org/verify/FKHCQWTZL824
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-02-09'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Facial Expression Recognition with Keras
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://coursera.org/verify/4NYJYGEXCLLY
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2019-06-10'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Duke University
+    organization_url: https://www.coursera.org
+    title: Programming Fundamentals.
+    url: ''
+  - certificate_url: https://www.coursera.org/learn/machine-learning
+    date_end: ''
+    date_start: '2017-02-23'
+    description: ''
+    organization: Stanford University
+    organization_url: https://www.coursera.org
+    title: 'Machine Learning'
     url: ''
 
 design:
