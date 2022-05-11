@@ -30,14 +30,16 @@ experience:
     date_start: '2017-03-01'
     date_end: '2017-12-01'
     description: Traffic recorders in suburban areas
+	
   - title: R&D Member
     company: Farabina Smart LLC
-	company_url: http://www.farabina.com/
-	company_logo: farabina_2
-	location: Iran
-	date_start: '2018-01-14'
-	date_end: '2020-06-15'
-	description: Building a device based on Thermal Camera.
+    company_url: http://www.farabina.com/
+    company_logo: farabina_2
+    location: Iran
+    date_start: '2018-01-14'
+    date_end: '2020-06-15'
+    description: Building a device based on Thermal Camera.
+
   - title: Research Intern
     company: GIPSA-Lab
 	company_url: http://www.gipsa-lab.grenoble-inp.fr/
