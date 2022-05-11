@@ -71,4 +71,4 @@ I have two years of professional signal processing experience, mostly in image p
 
 I did a project in cognitive science in the first year of my master's study. I am a prospective student in computer vision looking for a PhD position.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
