@@ -9,13 +9,13 @@ main:
     weight: 10
   - name: Skills
     url: '#skills'
-    weight: 20
+    weight: 30
   - name: Experience
     url: '#experience'
-    weight: 30
+    weight: 40
   - name: Projects
     url: '#projects'
-    weight: 40
+    weight: 65
   - name: Accomplishments
     url: '#accomplishments'
     weight: 50
