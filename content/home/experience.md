@@ -42,13 +42,13 @@ experience:
 
   - title: Research Intern
     company: GIPSA-Lab
-	company_url: http://www.gipsa-lab.grenoble-inp.fr/
-	company_logo: gipsa
-	location: France
-	date_start: '2022-02-07'
-	date_end: ''
-	description: Improving the performance of a CNN model with generative data.
-	
+    company_url: http://www.gipsa-lab.grenoble-inp.fr/
+    company_logo: gipsa
+    location: France
+    date_start: '2022-02-07'
+    date_end: ''
+    description: Improving the performance of a CNN model with generative data.
+
 design:
   columns: '2'
 ---
