@@ -30,7 +30,7 @@ experience:
     date_start: '2017-03'
     date_end: '2017-12'
     description: |2-
-		Traffic recorders in suburban areas
+	    Traffic recorders in suburban areas
         Responsibilities include:
         
         * Analysing
