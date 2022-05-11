@@ -29,6 +29,10 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
+    - name: Cognitive Image Processing
+      tag: Cognitive Projects
+    - name: Infrared Image Processing
+      tag: infrared imaging
     - name: Other
       tag: Demo
 
