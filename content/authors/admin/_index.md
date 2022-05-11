@@ -19,7 +19,7 @@ bio: My research interests include computer vision, computer photography, visual
 # Interests to show in About widget
 interests:
   - Autonomous System
-  - Computational Linguistics
+  - Image Segmentation
   - Visual cognition
 
 # Education to show in About widget

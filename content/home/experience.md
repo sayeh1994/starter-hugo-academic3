@@ -25,7 +25,7 @@ experience:
   - title: Data Analyst
     company: iRoad Electronic
     company_url: ''
-    company_logo: org-x
+    company_logo: org-gc
     location: Iran
     date_start: '2017-03-01'
     date_end: '2017-12-01'
