@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Intern
     company: GIPSA-Lab
-    company_url: 'http://www.gipsa-lab.grenoble-inp.fr/'
+    company_url: http://www.gipsa-lab.grenoble-inp.fr/
     company_logo: gipsa
     location: France
     date_start: '2022-02-07'
@@ -33,7 +33,7 @@ experience:
     
   - title: R&D Member
     company: Farabina Smart LLC
-    company_url: 'http://www.farabina.com/'
+    company_url: http://www.farabina.com/
     company_logo: farabina_2
     location: Iran
     date_start: '2018-01-14'
