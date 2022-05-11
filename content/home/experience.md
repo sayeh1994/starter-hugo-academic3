@@ -29,13 +29,7 @@ experience:
     location: Iran
     date_start: '2017-03-01'
     date_end: '2017-12-01'
-    description: |2-
-		Traffic recorders in suburban areas
-        Responsibilities include:
-        
-        * Analysing
-        * Monitoring
-        * Programing
+    description: Traffic recorders in suburban areas.
 
   - title: R&D Member
     company: Farabina Smart LLC
@@ -54,7 +48,7 @@ experience:
 	date_start: '2022-02-07'
 	date_end: ''
 	description: Improving the performance of a CNN model with generative data.
-    
+	
 design:
   columns: '2'
 ---
