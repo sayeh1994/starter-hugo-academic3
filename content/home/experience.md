@@ -31,11 +31,9 @@ experience:
     date_end: '2017-12-01'
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Monitoring
-        * Programing
-		
+		* Analysing
+		* Monitoring
+		* Programing
   - title: R&D Member
     company: Farabina Smart LLC
     company_url: http://www.farabina.com/
@@ -44,7 +42,6 @@ experience:
     date_start: '2018-01-14'
     date_end: '2020-06-15'
 	description: Building a device based on Thermal Camera.
-	
   - title: Research Intern
     company: GIPSA-Lab
     company_url: http://www.gipsa-lab.grenoble-inp.fr/
