@@ -27,16 +27,15 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Iran
-    date_start: '2017-03'
-    date_end: '2017-12'
+    date_start: '2017-03-01'
+    date_end: '2017-12-01'
     description: |2-
-	    Traffic recorders in suburban areas
         Responsibilities include:
         
         * Analysing
         * Monitoring
         * Programing
-
+		
   - title: R&D Member
     company: Farabina Smart LLC
     company_url: http://www.farabina.com/
