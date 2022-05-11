@@ -28,7 +28,7 @@ experience:
     company_logo: gipsa
     location: France
     date_start: '2022-02-07'
-    date_end: ''
+    date_end: '2022-07-29'
 	description: Improving the performance of a CNN model with generative data.
     
   - title: R&D Member
