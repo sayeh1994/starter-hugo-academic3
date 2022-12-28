@@ -6,7 +6,7 @@ title: Sayeh Gholipour Picha
 superuser: true
 
 # Role/position/tagline
-role: Research Intern in Computer Vision
+role: PhD candidate in Computer Vision
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,14 +18,14 @@ bio: My research interests include computer vision, computer photography, visual
 
 # Interests to show in About widget
 interests:
+  - Explaining AI
   - Autonomous System
   - Domain adaptation
-  - Image Segmentation
 
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Signal and Image Processing
+    - course: MSc in Signal and Image Processing
       institution: Grenoble INP University in France
       year: 2020
     - course: BSc in Electrical engineering with the major in Telecomunication
@@ -67,8 +67,6 @@ email: 'sayeh.gholipour@gmail.com'
 highlight_name: true
 ---
 
-I have two years of professional signal processing experience, mostly in image processing. I am working on my graduation thesis in computer vision. 
-
-I did a project in cognitive science in the first year of my master's study.
+A Ph.D. candidate in computer vision at the GIPSA laboratory in France, I am currently working on my thesis on AI explainability. I graduated from Grenoble INP university in signal and image processing. As part of my graduation thesis, I focused on generating facial expression recognition for model enhancement. Prior to my master's program, I had two years of professional experience in image processing. For more information, please see my resume.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
