@@ -11,9 +11,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
 
 date: '2023'
 doi: '10.5220/0011629000003417'
@@ -39,7 +37,7 @@ abstract: The success of deep learning models depends on the size and quality of
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
