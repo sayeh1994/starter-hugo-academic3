@@ -14,6 +14,7 @@ author_notes:
   - ''
 
 date: '2023-02-01T00:00:00Z'
+cite: cite.bib
 doi: '10.5220/0011629000003417'
 
 # Schedule page publish date (NOT publication's date).
@@ -63,7 +64,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - 'content/project/Master2Project/index.md'
+  - Master2Project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
