@@ -31,5 +31,3 @@ The goal of this project was to automatically estimate image quality, focusing o
 
 Analysis has shown that our proposed block-based method outperforms previous methods evaluated on the entire image when the sharpness scores are compared against Lynred’s scores and the ones obtained from the subjective evaluation. While the results aren’t satisfactory enough to be applied in an industrial setting, they still show a higher correlation between our proposed image evaluation and the subjective ranking, than the correlation between the subjective ranking and Lynred’s scores. Further work could go into improving the evaluation workflow by systematically comparing scores between an image and its blurred
 versions, and by testing on known datasets to compare new methods with existing literature.
-
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/Lynred_Data_Challenge.pdf" "newtab" >}}project report{{< /staticref >}}.
