@@ -42,7 +42,7 @@ social:
     link: "mailto:sayeh.gholipour@gmail.com"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/SayehGholipour
+    link: https://twitter.com/SayehGhp
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8J9vHC8AAAAJ
