@@ -14,7 +14,7 @@ date: '2023'
 doi: '10.5220/0011629000003417'
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
