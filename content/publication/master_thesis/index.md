@@ -9,7 +9,11 @@ authors:
   - Dawood Al Chanti
   - Alice Caplier
 
-# Author notes (optional)
+<!-- # Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution' -->
+
 date: '2023'
 doi: '10.5220/0011629000003417'
 
