@@ -14,7 +14,7 @@ organizations:
     url: http://www.gipsa-lab.grenoble-inp.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision, computer photography, visual learning.
+bio: My research interests include computer vision, explainable AI, visual learning.
 
 # Interests to show in About widget
 interests:
@@ -45,7 +45,7 @@ social:
     link: https://twitter.com/SayehGholipour
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/
+    link: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8J9vHC8AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/sayeh1994
