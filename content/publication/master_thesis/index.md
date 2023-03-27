@@ -13,11 +13,11 @@ authors:
 author_notes:
   - ''
 
-date: '2023'
+date: '2023-02-01T00:00:00Z'
 doi: '10.5220/0011629000003417'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023'
+publishDate: '2023-02-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
