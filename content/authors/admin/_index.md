@@ -51,7 +51,7 @@ social:
     link: https://github.com/sayeh1994
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sayeh-gholipour-picha-6398717b/
+    link: https://www.linkedin.com/in/sayeh-gholipour-picha/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
