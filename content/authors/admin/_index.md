@@ -14,13 +14,13 @@ organizations:
     url: http://www.gipsa-lab.grenoble-inp.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision, explainable AI, visual learning.
+bio: My research interests include visual understanding using Vision and Language Models.
 
 # Interests to show in About widget
 interests:
-  - Explaining AI
-  - Autonomous System
-  - Domain adaptation
+  - Explainable AI
+  - Stable Diffusion
+  - Phrase Grounding
 
 # Education to show in About widget
 education:
