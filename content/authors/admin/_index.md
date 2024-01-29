@@ -14,7 +14,7 @@ organizations:
     url: http://www.gipsa-lab.grenoble-inp.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include visual understanding using Vision and Language Models.
+bio: My research interests include Visual understanding using Vision and Language Models.
 
 # Interests to show in About widget
 interests:
