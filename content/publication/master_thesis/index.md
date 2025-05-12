@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2303.15223'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,8 +62,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - Master2Project
+# projects:
+#  - Master2Project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
