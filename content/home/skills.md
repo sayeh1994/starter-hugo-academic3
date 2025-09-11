@@ -19,21 +19,31 @@ feature:
   - icon: python
     icon_pack: fab
     name: Python
-  - icon: matlab
+  - icon: pytorch
     icon_pack: custom
-    name: Matlab
+    name: Pytorch
   - icon: linux
     icon_pack: fab
     name: Linux
   - icon: tensorflow
     icon_pack: custom
     name: Deep Learning
-  - icon: machine_learning
+  - icon: cv
     icon_pack: custom
-    name: Machine Learning
-  - icon: latex
+    name: Computer Vision
+  - icon: llm
     icon_pack: custom
-    name: Latex
+    name: Large Language Models
+  - icon: matlab
+    icon_pack: custom
+    name: Matlab
+  - icon: cuda
+    icon_pack: custom
+    name: CUDA Training
+  - icon: xray
+    icon_pack: custom
+    name: Medical Image Analysis
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
