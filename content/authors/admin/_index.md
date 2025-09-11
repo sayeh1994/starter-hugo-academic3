@@ -19,18 +19,21 @@ bio: My research interests include Visual understanding using Vision and Languag
 # Interests to show in About widget
 interests:
   - Explainable AI
-  - Stable Diffusion
-  - Phrase Grounding
+  - Generative AI
+  - Medical Computer Vision
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Medical Explainable AI and Computer Vision
+      institution: Grenoble INP University in France
+      year: 2022 - 2025
     - course: MSc in Signal and Image Processing
       institution: Grenoble INP University in France
-      year: 2020
+      year: 2020 - 2022
     - course: BSc in Electrical engineering with the major in Telecomunication
       institution: Shiraz University in Iran
-      year: 2012
+      year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
