@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Researcher
+    company: GIPSA-Lab
+    company_url: http://www.gipsa-lab.grenoble-inp.fr/
+    company_logo: gipsa
+    location: France
+    date_start: '2022-11-14'
+    date_end: '2025-11-30'
+    description: Designing multimodal models that combine vision and language to assess interpretable radiology reports from chest X-rays.
+
   - title: Research Intern
     company: GIPSA-Lab
     company_url: http://www.gipsa-lab.grenoble-inp.fr/
     company_logo: gipsa
     location: France
     date_start: '2022-02-07'
-    date_end: ''
+    date_end: '2022-07-30'
     description: Improving the performance of a CNN model with generative data.
 
   - title: R&D Member

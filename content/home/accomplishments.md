@@ -23,6 +23,46 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://github.com/sayeh1994/starter-hugo-academic3/blob/main/static/uploads/Certificate_award_BioINFORMATICS.pdf
+    date_end: ''
+    date_start: '2024-02-20'
+    description: ''
+    organization: Bioinformatic Conference
+    organization_url: https://bioinformatics.scitevents.org/
+    title: Best Poster Award at the BIOINFORMATICS Conference in Rome, Italy
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2023-11-25'
+    description: ''
+    organization: LMU Munich, Germany
+    organization_url: https://www.automlschool.org/
+    title: AutoML Fall School
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2023-07-02'
+    description: ''
+    organization: ETH Zürich, Switzerland
+    organization_url: https://www.bumblekite.co/
+    title: Bumblekit Machine Learning Summer School in Healthcare and Biosciences 
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2022-06-20'
+    description: ''
+    organization: Sorbonne University, France
+    organization_url: https://gdr-iasis.cnrs.fr/reunions/journee-action-visage-geste-action-et-comportement/
+    title: Giving a speech at GDR IASIS Face, gestures, actions, and Behavior seminar 
+    url: ''
+  - certificate_url: ''
+    date_end: '2022-07-30'
+    date_start: '2021-09-01'
+    description: ''
+    organization: Grenoble INP University, France
+    organization_url: https://www.grenoble-inp.fr/fr/l-institut/appel-a-candidature-pour-les-bourses-d-excellence-persyval-lab
+    title: Granted Persyval Full Scholarship for master’s study in France
+    url: 'https://www.grenoble-inp.fr/medias/fichier/depliant-persyval-2019-bd_1552399249941-pdf'
   - certificate_url: https://coursera.org/verify/FKHCQWTZL824
     date_end: ''
     date_start: '2022-02-09'
