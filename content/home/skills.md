@@ -15,34 +15,60 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+# feature:
+#   - icon: python
+#     icon_pack: fab
+#     name: Python
+#   - icon: pytorch
+#     icon_pack: custom
+#     name: Pytorch
+#   - icon: linux
+#     icon_pack: fab
+#     name: Linux
+#   - icon: tensorflow
+#     icon_pack: custom
+#     name: Deep Learning
+#   - icon: cv
+#     icon_pack: custom
+#     name: Computer Vision
+#   - icon: llm
+#     icon_pack: custom
+#     name: Large Language Models
+#   - icon: matlab
+#     icon_pack: custom
+#     name: Matlab
+#   - icon: cuda
+#     icon_pack: custom
+#     name: CUDA Training
+#   - icon: xray
+#     icon_pack: custom
+#     name: Medical Image Analysis
+
 feature:
   - icon: python
     icon_pack: fab
-    name: Python
+    name: Python & Scientific Computing
   - icon: pytorch
     icon_pack: custom
-    name: Pytorch
-  - icon: linux
-    icon_pack: fab
-    name: Linux
-  - icon: tensorflow
-    icon_pack: custom
-    name: Deep Learning
+    name: Deep Learning (PyTorch)
   - icon: cv
     icon_pack: custom
-    name: Computer Vision
-  - icon: llm
-    icon_pack: custom
-    name: Large Language Models
-  - icon: matlab
-    icon_pack: custom
-    name: Matlab
-  - icon: cuda
-    icon_pack: custom
-    name: CUDA Training
+    name: Medical Computer Vision
   - icon: xray
     icon_pack: custom
-    name: Medical Image Analysis
+    name: Computational Pathology
+  - icon: llm
+    icon_pack: custom
+    name: Vision-Language Models
+  - icon: brain
+    icon_pack: custom
+    name: Explainable AI
+  - icon: cuda
+    icon_pack: custom
+    name: GPU & Distributed Training
+  - icon: linux
+    icon_pack: fab
+    name: Linux & Research Infrastructure
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
