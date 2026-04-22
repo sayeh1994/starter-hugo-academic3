@@ -6,15 +6,17 @@ title: Sayeh Gholipour Picha
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in Explainable AI
+role: Postdoctoral Researcher at Oncology AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: GIPSA-Lab
-    url: http://www.gipsa-lab.grenoble-inp.fr/
+  - name: Gustave Roussy
+    url: https://www.gustaveroussy.fr/
+  - name: Centrale Supelèc
+    url: https://biomathematics.mics.centralesupelec.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Visual understanding using Vision and Language Models.
+bio: Researcher in medical AI with interests in explainable models, generative methods, and vision-language learning.
 
 # Interests to show in About widget
 interests:
@@ -25,13 +27,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PostDoc in Oncology AI and Rare Cancer Prognosis
+      institution: Paris Saclay, Centrale Supelec university and Gustave Roussy Cancer Hospital
+      year: 2026 - present
     - course: PhD in Medical Explainable AI and Computer Vision
       institution: Grenoble INP University in France
       year: 2022 - 2025
     - course: MSc in Signal and Image Processing
       institution: Grenoble INP University in France
       year: 2020 - 2022
-    - course: BSc in Electrical engineering with the major in Telecomunication
+    - course: BSc in Electrical engineering with the minor in Telecommunication
       institution: Shiraz University in Iran
       year: 2012 - 2016
 
@@ -70,6 +75,8 @@ email: 'sayeh.gholipour@gmail.com'
 highlight_name: true
 ---
 
-A Ph.D. candidate in computer vision at the GIPSA laboratory in France, I am currently working on my thesis on AI explainability. I graduated from Grenoble INP university in signal and image processing. As part of my graduation thesis, I focused on generating facial expression recognition for model enhancement. Prior to my master's program, I had two years of professional experience in image processing. For more information, please see my resume.
+I am a postdoctoral researcher in Oncology AI, working on AI methods for cancer understanding and prognosis. I completed my PhD in computer vision at GIPSA-lab, where I focused on making deep learning models more interpretable in medical imaging.
+My background is in signal and image processing from Grenoble INP, where I worked on generative models for facial expression recognition. Alongside my academic work, I spent two years in industry applying image processing techniques to real-world problems.
+I am particularly interested in bridging advanced AI methods with practical clinical applications.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
